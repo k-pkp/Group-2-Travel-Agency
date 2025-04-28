@@ -67,4 +67,6 @@ This project is a web-based travel agency platform developed as part of the ITCS
 3. Open the website in your browser and explore the features.
 
 ## Hint!!
-    If you mess up the installation please delete the folder and reinstall it then do as the provided installation guide in the readme file step by step... 
+    If you mess up the installation or the setup :(
+    please delete the folder and reinstall it 
+    then do as the provided installation guide in the readme file step by step... 
