@@ -8,8 +8,7 @@ This project is a web-based travel agency platform developed as part of the ITCS
 2. 6688046 Warut Whankaveephart
 3. 6688050 Chaiwat Kor-u-thaisathain
 4. 6688053 Kritchanat Kulwanich
-5. 6688087 Thanakorn Praditkanok
-6. 6688191 Kittiyakarn Kaewmongkun
+5. 6688191 Kittiyakarn Kaewmongkun
 
 ## Features
 
