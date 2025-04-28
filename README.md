@@ -65,3 +65,8 @@ This project is a web-based travel agency platform developed as part of the ITCS
     npm run dev
     ```
 3. Open the website in your browser and explore the features.
+
+## Hint!!
+    ```bash
+    If you mess up the installation please delete the folder and reinstall it then do as the provided installation guide in the readme file step by step... 
+    ```
