@@ -1,4 +1,4 @@
-# Group 2 TravelAgency
+# Group 12 TravelAgency
 
 This project is a web-based travel agency platform developed as part of the ITCS223_Introduction to Web Development course. It allows users to browse, search, and filter available hotels, while admins can manage services.
 
