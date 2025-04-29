@@ -4,7 +4,7 @@ const cors = require('cors');
 
 const db = mysql.createPool({
     host: "localhost",
-    user: "root",
+    user: "[Replace with your actual MySQL Username || default: root]",
     password: "[Replace with your actual MySQL Password]",
     database: "HotelBookingSystem"
 });
