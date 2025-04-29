@@ -12,7 +12,7 @@ function HeroSection() {
       >
         <div className="mt-16 max-w-[600px]">
           <h2 className="mb-4 text-5xl font-semibold max-sm:text-3xl">
-            Make your travel whishlist, we'll do the rest
+            Make your travel whislist, we'll do the rest
           </h2>
           <p className="text-xl">Special offers to suit your plan</p>
         </div>
