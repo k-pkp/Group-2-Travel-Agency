@@ -10,7 +10,7 @@ function Member() {
             <div className='grid grid-flow-col grid-rows-2 gap-10 mb-15 mt-5'>
               <a href="https://www.instagram.com/keng_pkp/" target='_blank'>
                 <div className='mx-15 my-5'>
-                <img src="https://scontent.fkdt3-1.fna.fbcdn.net/v/t39.30808-6/490322961_1868000447376664_3630856473415961628_n.jpg?stp=cp6_dst-jpg_s1080x2048_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_V2LX0IJZDEQ7kNvwGDW0eh&_nc_oc=AdkAIFkJMxLQco-y8cWz3gd-uORpu6U0xnG6XF3_TApVgv5brvVqWDBh5acMHIqxENnFvsZXzn_4J2nq8bnUo-wN&_nc_zt=23&_nc_ht=scontent.fkdt3-1.fna&_nc_gid=TJG1-hkr7XO_rOwNdMyrwA&oh=00_AfGs3OOPQ7fGNe8cz-LfBDSSXFv1DL-3VO2PaHwcwvRucQ&oe=68015C70" alt="" className='drop-shadow-xl w-[263px] h-[415px] rounded-3xl'/>
+                <img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t39.30808-6/490322961_1868000447376664_3630856473415961628_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGXs3tvS8TMI8win57OFYgYHVfKRl50weQdV8pGXnTB5PNsa5nlHFCGdR6yP3PjtTVZgEatsLIufslkxP9uPD4W&_nc_ohc=Pz-b1d4z0jUQ7kNvwECGges&_nc_oc=AdnmYkd-9oJh8ovUMVHL6OGId66qTPgrs_ubYqNrhNmd8I9kJ64tEE7HmZR91_KX4AmC1ExWp8vDwh4HrYi3Zd8X&_nc_zt=23&_nc_ht=scontent.fkdt1-1.fna&_nc_gid=cQ4dmJtD8vEp8rmPD96qqQ&oh=00_AfEzyyarUTKmERUlnZcXY2dAC6ebfx0t851eb16rbfyi_g&oe=6816ACB0" alt="" className='drop-shadow-xl w-[263px] h-[415px] rounded-3xl'/>
                 <p className='text-2xl text-center mt-5'>Pakkapol Boonluck</p>
                 <p className='text-xl text-center'>6688010</p>
                 </div>
